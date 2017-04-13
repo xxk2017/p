@@ -9,6 +9,7 @@
       <td align=center>
       ◆活摘十年调查◆2017获多项国际大奖<br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请点击在线观看 </a> <br/>
+ 如打开慢，缓冲稍等或刷新<br/>
    </tr>
   <tr>
   <td align=left>
@@ -19,12 +20,9 @@
 ◆残忍超越纳粹，这种罪恶至今还在延续。<br/>
 ——而今天，由於暴利的驱使，这种强摘已经开始延伸向更广的民众。这部杀人机器它自己已经停不下来了……<br/>
 ◆影片简介◆<br/>
-器官移植，一个最重要道德前提就是自愿捐献<br/>
-但是中国的器官移植在起步就违反了这个底线，从死刑犯身上强摘器官<br/>
-1999年，江泽民迫害法轮功后，为了达到消灭法轮功的目的<br/>
-下令可以摘取法轮学员器官。于是这种活摘行为<br/>
-从死刑犯延伸到了良心犯、政治犯和法轮功学员<br/>
-与此同时，从2000年起，中国的器官移植业呈现出爆炸性的几倍、几十倍的增长<br/>
+*器官移植，一个最重要道德前提就是自愿捐献。但是中国的器官移植在起步就违反了这个底线，从死刑犯身上强摘器官<br/>
+*1999年，江泽民迫害法轮功后，为了达到消灭法轮功的目的，下令可以摘取法轮学员器官。于是这种活摘行为，从死刑犯延伸到了良心犯、政治犯和法轮功学员<br/>
+*与此同时，从2000年起，中国的器官移植业呈现出爆炸性的几倍、几十倍的增长<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B4.JPG" /></td>
@@ -33,6 +31,7 @@
         <td align=center>
   ◆大卫战红魔◆国际获奖，全球反响巨大<br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816771&from=wnel">请点击在线观看</a> <br/>
+  如打开慢，缓冲稍等或刷新<br/>
     </tr>
   <tr>
     <td align=left>
@@ -48,6 +47,7 @@
           <td align=center>
   ◆铁证如山：头号史案◆残忍超越纳粹<br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?2EC%2FZCGJ&current=2:1&from=wnel">请点击在线观看</a> <br/>
+  如打开慢，缓冲稍等或刷新<br/>
    <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E9%93%81%E8%AF%81%E5%A6%82%E5%B1%B1.jpg" /></td>
   </tr>
@@ -55,6 +55,7 @@
           <td align=center>
 ◆“中共活摘器官 国家犯罪罪证”专家讲座 <br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816787&from=wnel">请点击在线观看</a> <br/>
+  如打开慢，缓冲稍等或刷新<br/>
    </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B42.jpg" /></td>
@@ -63,7 +64,7 @@
   <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
-    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate3.jpg" /></td>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
    <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
@@ -77,6 +78,7 @@
   </tr>
   <tr>
     <td align=center>
+     如打开慢，缓冲稍等或刷新<br/>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">大陆请点击进入动态网址</a><br/>
       微信如果提示：停止访问该网页<br/>
       请点击右上角，选择浏览器打开<br/>
@@ -96,7 +98,7 @@
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
   </tr>
   <tr>
-      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E6%8C%87%E5%8D%972.jpg"/></td>
+      <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%971.jpg"/></td>
   </tr>
   <tr>
 </table>    
