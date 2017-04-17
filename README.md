@@ -4,8 +4,13 @@
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E9%AB%98%E6%B8%85.jpg" /></td>
+   </tr>
+  <tr>
+   <td align=center>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
   </tr>
-  <tr> 
+  <tr>
       <td align=center>
       ◆活摘十年调查◆2017获多项国际大奖<br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请点击在线观看 </a> <br/>
