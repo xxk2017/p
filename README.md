@@ -7,7 +7,7 @@
   </tr>
   <tr> 
       <td align=center>
-      ◆活摘十年调查◆2017获多项国际大奖<br/>
+◆活摘十年调查◆2017获多项国际大奖<br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816779&from=wnel">请点击在线观看 </a> <br/>
     </tr>
   <tr>
@@ -35,8 +35,8 @@
   </tr>
   <tr>
         <td align=center>
-  ◆大卫战红魔◆国际获奖，全球反响巨大<br/>
- <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816771&from=wnel">请点击在线观看</a> <br/>
+◆大卫战红魔◆国际获奖，全球反响巨大<br/>
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816771&from=wnel">请点击在线观看</a> <br/>
    </tr>
   <tr>
 <td align=center>
@@ -56,14 +56,14 @@
    </tr>
   <tr>
           <td align=center>
-  ◆铁证如山：头号史案◆残忍超越纳粹<br/>
+◆铁证如山：头号史案◆残忍超越纳粹<br/>
  <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?2EC%2FZCGJ&current=2:1&from=wnel">请点击在线观看</a> <br/>
    </tr>
   <tr>
 <td align=center>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
-  如打开慢，缓冲稍等或刷新<br/>
+如打开慢，缓冲稍等或刷新<br/>
     </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E9%93%81%E8%AF%81%E5%A6%82%E5%B1%B1.jpg" /></td>
@@ -77,19 +77,19 @@
 <td align=center>
 微信如果提示：停止访问该网页<br/>
 请点击右上角，选择浏览器打开<br/>
-  如打开慢，缓冲稍等或刷新<br/>
+如打开慢，缓冲稍等或刷新<br/>
     </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/10%E5%B9%B42.jpg" /></td>
   </tr>
   <tr>
-  <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
+<tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
-   <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
+<td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
        </td>
   </tr>
   <tr>
