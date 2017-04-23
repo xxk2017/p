@@ -84,6 +84,35 @@
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
+        <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/shan3.jpg" /></td>
+   </tr>
+  <tr>
+  <td align=center>
+◆致我们心中的善◆平和中的震撼 <br/> 
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c817056&from=wnel">请点击在线观看</a> <br/>
+   </tr>
+  <tr>
+<td align=center>
+微信如果提示：停止访问该网页<br/>
+请点击右上角，选择浏览器打开<br/>
+苹果用户复制到自带浏览器打开<br/>
+如打开慢，缓冲稍等或刷新<br/>
+    </tr>
+  <tr>
+          <td align=center>
+◆这种反人类罪恶至今还在中国继续◆<br/>
+     </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E6%B4%BB%E6%91%983.jpg" /></td>
+  </tr>
+  <tr>
+<td align=center>
+◆残忍超越纳粹 引发全球关注◆<br/>
+   </tr>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E6%B4%BB%E6%91%982.jpg" /></td>
+   </tr>
+  <tr>
 <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
