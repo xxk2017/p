@@ -2,14 +2,14 @@
 <td align=left>◆2017国人翻墙最人气网站<br/>
 ◆网门 https://git.io/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
-◆安卓用户与电脑用户<br/>
+◆适合苹果、安卓、平板、电脑<br/>
+◆其中安卓用户与电脑用户<br/>
 ◆推荐使用谷歌或火狐浏览器<br/>
-https://chrome.cn.uptodown.com/android <br/>
-（谷歌浏览器安卓版 请下载安装）<br/>
+<a href="https://chrome.cn.uptodown.com/androidl">（谷歌浏览器安卓版 请下载安装）</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
-◆2017国人翻墙最人气软件<br/>
-◆安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-◆下载安卓版更快更方便<br/>
+◆2017国人翻墙最人气软件网门<br/>
+◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
+◆下载网门安卓版：更快更方便<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%8B%AC%E5%AE%B6.jpg" /></td>
