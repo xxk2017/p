@@ -1,11 +1,18 @@
 <table>
+  <tr>
+    <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
+  </tr>
+  <tr>
 <td align=left>◆2017国人翻墙最人气网站<br/>
 ◆网门 https://git.io/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
 ◆推荐使用谷歌或火狐浏览器<br/>
-<a href="https://chrome.cn.uptodown.com/androidl">（谷歌浏览器安卓版 请下载安装）</a><br/>
+<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、</a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版、</a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017国人翻墙最人气软件网门<br/>
 ◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
@@ -132,11 +139,17 @@
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
-推荐谷歌/火狐浏览器，国产浏览器干扰<br/>
+推荐谷歌/火狐浏览器，国产浏览器易干扰<br/>
+<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
        </td>
   </tr>
   <tr>
-<td align=center>网门网址 https://git.io/ogate 收藏浏览器<br/>
+<td align=center>网门 網門<br/>
+欢迎来到固定页面，请收藏浏览器<br/>
+https://git.io/ogate <br/>
   </tr>
   <tr>
     <td align=center>
@@ -145,8 +158,8 @@
   <tr>
   <td align=center>请尝试不同入口，进入动态网址<br/>
       <a target="_blank" href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=wnel">入口</a>
-      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a><br/>
-      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a>
+      <a target="_blank" href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=wnel">入口</a>
+      <a target="_blank" href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?from=wnel">入口</a><br/>
       <a target="_blank" href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=wnel">入口</a>
       <a target="_blank" href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=wnel">入口</a><br/>
 微信如果提示：停止访问该网页<br/>
@@ -155,9 +168,9 @@
   </tr>
   <tr>
       <td align=center>
-2017网民翻墙最人气软件<br/>
+2017年网民翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
-下载安卓版更快更方便<br/>
+下载网门安卓版更快更方便<br/>
   </tr>
   <tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
