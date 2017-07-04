@@ -140,7 +140,7 @@
   </tr>
   <tr>
 <td align=center>◆免费  ◆安全  ◆快速  ◆绿色  ◆高速视频<br/>
-推荐谷歌/火狐浏览器♦国产浏览器易干扰<br/>
+推荐谷歌/火狐浏览器/国产浏览器易干扰<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
@@ -169,7 +169,7 @@
   </tr>
   <tr>
       <td align=center>
-2017年网民翻墙最人气VPN<br/>
+2017年网民翻墙最人气软件<br/>
 安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 下载网门安卓版更快更方便<br/>
   </tr>
