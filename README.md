@@ -145,15 +145,16 @@
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
-       </td>
+   </td>
   </tr>
   <tr>
 <td align=center>网门 網門<br/>
 欢迎来到固定页面，请收藏浏览器<br/>
 ❤ https://git.io/ogate ❤ <br/>
-  </tr>
-  <tr>
-    <td align=center>
+适合苹果、安卓、平板、电脑<br/>
+</tr>
+<tr>
+<td align=center>
 如打开慢，缓冲稍等或刷新<br/>
   </tr>
   <tr>
@@ -188,18 +189,49 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E6%8C%87%E5%8D%97%E6%A1%86.jpg"/></td>
     </tr>
   <tr>
-<td align=left>无界浏览（全球热门VPN）<br/>
-https://git.io/v6836 （安卓版）<br/>
-https://git.io/vEJlj （电脑版）<br/>
-  </tr>
+<td align=left>
+◆全球免费翻墙最人气网站：网门<br/> 
+网门网页版 https://git.io/ogate 热门推荐<br/>
+网门安卓版 https://git.io/ogatea<br/>
+网门桌面版 https://git.io/ogatew<br/>
+谷歌桌面版 https://git.io/ogatecw<br/>
+◆全球最人气翻墙软件<br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_1_1&from=wnel">◆自由门（安卓版）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816729_2_1&from=wnel">◆自由门（电脑版）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_1_1&from=wnel">◆无界浏览（安卓版）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816767_2_1&from=wnel">◆无界浏览（电脑版）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816730&from=wnel">◆新唐人电视（安卓版）</a><br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816731&from=wnel">◆爱博电视（电脑版）</a><br/> 
+◆全球最佳浏览器——大陆网民必备<br/> 
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816725&from=wnel">◆谷歌浏览器（安卓版）</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816726&from=wnel">◆谷歌浏览器（电脑版）</a><br/> 
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
+<a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
+<a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
+<a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
+国内浏览器会干扰屏蔽，也会监控隐私，建议卸载<br/>
+◆全球热门免费VPN：<br/>
+自由门安卓版 https://git.io/fgma <br/>
+自由门电脑版 https://git.io/fgp <br/>
+无界安卓版 https://git.io/v6836 <br/>
+无界电脑版 https://git.io/vEJlj <br/>
+◆翻墙小技巧：<br/>
+II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙直连全球真实资讯<br/>
+II苹果用户最佳免费翻墙大全：https://git.io/vQo02<br/>
+II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 随时浏览全球真实资讯<br/>
+II安卓、电脑用户，安装并成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
+II安卓、电脑用户，安装并成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
+II更多翻墙大全 https://git.io/jww<br/>
+ </tr>
   <tr>
   <td align=left>全球其他最热门网站，请收藏<br/>
-大陆网民请使用谷歌浏览器<br/>
+◆大陆网民请使用谷歌浏览器<br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
-国产浏览器干扰浏览请卸载<br/>
+◆国产浏览器干扰浏览请卸载<br/>
 https://git.io/free 动态网<br/>
 https://git.io/jww 禁闻网<br/>
 https://git.io/freesky 自由天空<br/>
@@ -213,7 +245,7 @@ https://git.io/168<br/>
 https://git.io/88<br/>
   </tr>
   <tr>
-<td align=left>全球热点，震撼各国<br/>
+<td align=left>❤全球热点，热传各国，震撼世人<br/>
 大陆网民请复制到谷歌浏览器打开<br/>
 <a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
@@ -236,4 +268,4 @@ https://git.io/88<br/>
 ◆https://git.io/vQgqs 致我们心中的善<br/>
 </tr>
 <tr>
-</table>  
+</table>
