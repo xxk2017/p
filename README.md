@@ -209,6 +209,8 @@
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
+◆翻墙最佳浏览器：谷歌浏览器大全<br/>
+https://git.io/vQowA<br/>
 国内浏览器会干扰屏蔽，也会监控隐私，建议卸载<br/>
 ◆全球热门免费VPN：<br/>
 自由门安卓版 https://git.io/fgma <br/>
@@ -227,7 +229,7 @@ II更多翻墙大全 https://git.io/jww<br/>
   <td align=left>全球其他最热门网站，请收藏<br/>
 ◆大陆网民请使用谷歌浏览器<br/>
 <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?ogTool&from=wnel">◆谷歌浏览器（安卓版、电脑版）</a><br/> 
-<a href="https://chrome.cn.uptodown.com/android">谷歌安卓版、 </a>
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌安卓版、 </a>
 <a href="https://google-chrome.cn.uptodown.com/windows">win版、 </a>
 <a href="https://chrome.cn.uptodown.com/iphone">苹果版、</a>
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
