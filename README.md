@@ -3,11 +3,23 @@
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%BD%91%E9%97%A8%E5%BE%AE%E4%BF%A1%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.jpg" /></td>
   </tr>
   <tr>
+<td align=left>本页短网址：https://git.io/vQgT2 <br/>
+❤翻墙永久网址：https://git.io/ogate <br/>
+本页如屏蔽，请将网址输入谷歌浏览器<br/>
+苹果用户请输入网址到苹果浏览器打开<br/>
+网民必备浏览器：谷歌浏览器（请安装）<br/>
+<a href="https://chrome.cn.uptodown.com/android">◆谷歌浏览器安卓版 </a><br/>
+<a href="https://google-chrome.cn.uptodown.com/windows">◆谷歌浏览器windows版 </a><br/>
+<a href="https://chrome.cn.uptodown.com/iphone">◆谷歌浏览器苹果版</a><br/>
+<a href="https://google-chrome.cn.uptodown.com/mac">◆谷歌浏览器Mac版</a><br/>
+国产浏览器监控/屏蔽网页/广告多/请卸载<br/>
+  </tr>
+  <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
   </tr>
   <tr>
 <td align=left>◆2017国人翻墙最人气网站<br/>
-◆网门 https://git.io/ogate<br/>
+❤网门 https://git.io/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
@@ -18,9 +30,8 @@
 <a href="https://google-chrome.cn.uptodown.com/mac">Mac版</a><br/>
 ◆国产浏览器干扰浏览，请卸载<br/>
 ◆2017国人翻墙最人气软件网门<br/>
-◆网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
+❤网门安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
 ◆下载网门安卓版：更快更方便<br/>
-◆https://git.io/vQgT2 本页短网址<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E7%8B%AC%E5%AE%B6.jpg" /></td>
@@ -221,11 +232,11 @@ https://git.io/vQowA<br/>
 无界安卓版 https://git.io/v6836 <br/>
 无界电脑版 https://git.io/vEJlj <br/>
 ◆翻墙小技巧：<br/>
-II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙直连全球真实资讯<br/>
+II苹果用户，用自带浏览器收藏https://git.io/ogate 翻墙全球真实资讯<br/>
 II苹果用户最佳免费翻墙大全：https://git.io/vQo02<br/>
-II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 随时浏览全球真实资讯<br/>
+II安卓、电脑用户，用谷歌浏览器收藏 https://git.io/ogate 浏览全球真实资讯<br/>
 II安卓、电脑用户，安装并成功打开无界或自由门后，可在软件内打开推特、脸书、youtube等<br/>
-II安卓、电脑用户，安装并成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
+II安卓、电脑用户，成功打开无界或自由门后，可用谷歌浏览器打开全球任意网站<br/>
 II更多翻墙大全 https://git.io/jww<br/>
  </tr>
   <tr>
