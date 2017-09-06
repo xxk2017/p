@@ -5,7 +5,7 @@
   <tr>
 <td align=left>本页短网址：https://git.io/vQgT2 <br/>
 ❤翻墙永久网址：https://git.io/ogate2 <br/>
-https://github.com/ogate2/ogate
+https://github.com/ogate2/ogate<br/>
 本页如屏蔽，请将网址输入谷歌浏览器<br/>
 苹果用户请输入网址到苹果浏览器打开<br/>
 网民必备浏览器：谷歌浏览器（请安装）<br/>
