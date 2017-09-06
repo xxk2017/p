@@ -5,6 +5,7 @@
   <tr>
 <td align=left>本页短网址：https://git.io/vQgT2 <br/>
 ❤翻墙永久网址：https://git.io/ogate2 <br/>
+https://github.com/ogate2/ogate
 本页如屏蔽，请将网址输入谷歌浏览器<br/>
 苹果用户请输入网址到苹果浏览器打开<br/>
 网民必备浏览器：谷歌浏览器（请安装）<br/>
@@ -20,6 +21,7 @@
   <tr>
 <td align=left>◆2017国人翻墙最人气网站<br/>
 ❤网门 https://git.io/ogate2<br/>
+https://github.com/ogate2/ogate<br/>
 ◆请收藏到手机和电脑浏览器中<br/>
 ◆适合苹果、安卓、平板、电脑<br/>
 ◆其中安卓用户与电脑用户<br/>
